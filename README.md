@@ -1,2 +1,1 @@
-# github_stats
-Estatísticas do meu perfil aqui no GitHub
+![Aushiffer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aushiffer&theme=dracula&show_icons=true&hide_border=true&layout=compact)
