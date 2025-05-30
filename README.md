@@ -1,5 +1,5 @@
 # About Me:
-Hi there! My name is Caio Eduardo, and I am currently<br>a undergraduate Computer Science student at the<br>Federal University of Paraná with great interest in Theoretical Computer Science!
+Hi there! My name is Caio Eduardo, and I am currently<br>a undergraduate Computer Science student at the<br>Federal University of Paraná, with great interest in Theoretical Computer Science!
 <br><br>
 Currently, I'm doing research on sorting algorithms.
 
